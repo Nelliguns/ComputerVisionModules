@@ -46,7 +46,7 @@ class HandDetector:
         return lmlist
 
 
-
+# Example use of module
 def main():
     pTime = 0
     cTime = 0
